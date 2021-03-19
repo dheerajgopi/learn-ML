@@ -42,7 +42,7 @@ ipython==4.0.1
 ipython-genutils==0.1.0
 ipywidgets==5.2.2
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.0
 jsmin==2.2.1
 jsonschema==2.5.1
