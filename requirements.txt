@@ -126,7 +126,7 @@ Twisted-Core==13.2.0
 Twisted-Web==13.2.0
 ubuntu-tweak==0.8.8
 untangle==1.1.0
-urllib3==1.7.1
+urllib3==1.26.5
 virtualenv==15.1.0
 wcwidth==0.1.7
 Werkzeug==0.11.2
